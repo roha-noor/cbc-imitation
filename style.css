@@ -2,3 +2,7 @@ h1 {
   text-align: left;
   color: black;
 }
+
+table, tr, th, td {
+  border: 1px solid black;
+}
